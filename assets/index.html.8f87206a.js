@@ -1,0 +1,1 @@
+import{o as e,a as o}from"./app.3e01c115.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={},c={class:"footer"};function s(n,_){return e(),o("div",c,"GPL-3.0 Licensed | Copyright \xA9 2021-2022 \u7B28\u86CBovo")}var f=r(t,[["render",s]]);export{f as default};
